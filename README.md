@@ -14,18 +14,6 @@ Bem-vindo ao repositório da página onde você pode visualizar seus currículos
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```plaintext
-├── index.html       # Estrutura principal da página
-├── style.css        # Estilos da página
-├── script.js        # Funcionalidade do alternador de tema
-├── assets/          # Recursos como imagens e ícones
-└── README.md        # Documentação do projeto
-```
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura da página.
