@@ -1,7 +1,7 @@
 
-# Página de Currículos - Modo Claro e Escuro
+# Página de Certificados - Modo Claro e Escuro
 
-Bem-vindo ao repositório da página onde você pode visualizar seus currículos e alternar entre os modos claro e escuro. Este projeto é ideal para apresentar informações profissionais com um design moderno e responsivo.
+Bem-vindo ao meu repositório onde você pode visualizar meus certificados e alternar entre os modos claro e escuro. Este projeto é ideal para apresentar informações profissionais com um design moderno e responsivo.
 
 ---
 
@@ -11,18 +11,6 @@ Bem-vindo ao repositório da página onde você pode visualizar seus currículos
 - **Design Responsivo**: Compatível com dispositivos móveis, tablets e desktops.
 - **Seção de Contato**: Facilita a comunicação com links clicáveis.
 - **Animações**: Movimentos suaves para aprimorar a experiência do usuário.
-
----
-
-## 📂 Estrutura do Projeto
-
-```plaintext
-├── index.html       # Estrutura principal da página
-├── style.css        # Estilos da página
-├── script.js        # Funcionalidade do alternador de tema
-├── assets/          # Recursos como imagens e ícones
-└── README.md        # Documentação do projeto
-```
 
 ---
 
