@@ -3,14 +3,14 @@
   --primary-color: #3f51b5; /* Azul suave, cor principal */
   --secondary-color: #f9f9fc; /* Fundo cinza muito claro */
   --text-color: #4a4a4a; /* Cinza escuro, mais suave para leitura */
-  --text-light: #000000; /* Branco para texto claro */
+  --text-light: #000000;
   --border-color: #d1d5db; /* Cinza suave para bordas */
-  --shadow-color: rgba(0, 0, 0, 0.05); /* Sombra leve */
+  --shadow-color: rgba(0, 0, 0, 0.05); /* Sombra forte */
 }
 
 /* Tema escuro */
 .dark-theme {
-  --primary-color: #309292; /* Cinza-azulado escuro mais sofisticado */
+  --primary-color: #309292;
   --secondary-color: #212b36; /* Fundo preto acinzentado */
   --text-color: #e0e0e0; /* Texto claro mais suave */
   --text-light: #ffffff; /* Branco para texto claro */
@@ -31,8 +31,7 @@
   color: var(--text-light);
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  transition: background 0.3s ease, color 0.3s ease, transform 0.2s ease,
-    box-shadow 0.3s ease;
+  transition: background 0.3s ease, color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
   display: inline-block;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
 }
@@ -244,7 +243,7 @@ main {
 }
 
 .footer .p {
-  color: var(--secondary-color)
+  color: var(--secondary-color);
 }
 
 footer {
