@@ -31,27 +31,10 @@
   color: var(--text-light);
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  transition: background 0.3s ease, color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  transition: background 0.3s ease, color 0.3s ease, transform 0.2s ease,
+    box-shadow 0.3s ease;
   display: inline-block;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
-}
-
-#theme-toggle:hover {
-  background: var(--text-light);
-  color: var(--primary-color);
-  transform: translateY(-2px);
-  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
-}
-
-#theme-toggle:active {
-  transform: translateY(0);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
-}
-
-#theme-toggle:focus {
-  outline: none;
-  border-color: var(--primary-color);
-  box-shadow: 0 0 0 2px rgba(98, 0, 234, 0.5); /* Foco suave */
 }
 
 * {
@@ -94,6 +77,23 @@ main {
   flex: 1;
 }
 
+#theme-toggle:hover {
+  background: var(--text-light);
+  color: var(--primary-color);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+#theme-toggle:active {
+  transform: translateY(0);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+}
+
+#theme-toggle:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 2px rgba(98, 0, 234, 0.5); /* Foco suave */
+}
 #certificados {
   margin-top: 20px;
 }
@@ -128,7 +128,7 @@ main {
 }
 
 .certificado-link:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .certificados-list .certificado:hover {
@@ -213,7 +213,7 @@ main {
   animation: fadeIn 1.5s ease-out;
 }
 
-/* Efeito de link */
+/* Efeito de link no Contato*/
 #contato a {
   color: var(--text-light);
   text-decoration: none;
