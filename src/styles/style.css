@@ -21,7 +21,8 @@
 body {
   font-family: "Roboto", sans-serif;
   line-height: 1.6;
-  background: var(--secondary-color);
+  background: url('https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-147826.jpg?semt=ais_hybrid') no-repeat center center fixed;
+  background-size: cover;
   color: var(--text-color);
   padding: 0;
   margin: 0;
