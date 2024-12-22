@@ -2,7 +2,7 @@
 
 Este é o currículo de Richard Oliveira, um universitário apaixonado por tecnologia, inovação e com experiência em diversas áreas relacionadas à tecnologia da informação.
 
-Clique aqui para testar --> https://curriculo-richard-oliveira.vercel.app
+Clique aqui para testar --> [My Curriculum](https://curriculo-richard-oliveira.vercel.app)
 
 ## Descrição
 
