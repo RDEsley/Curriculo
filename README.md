@@ -2,6 +2,8 @@
 
 Este é o currículo de Richard Oliveira, um universitário apaixonado por tecnologia, inovação e com experiência em diversas áreas relacionadas à tecnologia da informação.
 
+Clique aqui para testar --> https://curriculo-richard-oliveira.vercel.app
+
 ## Descrição
 
 Richard Oliveira é um estudante de Bacharel em Ciência da Computação, com experiência como assistente administrativo e conhecimento técnico em diversas tecnologias como Python, Java, JavaScript, PHP, MySQL, Kotlin, HTML5 e CSS3. Ele está em busca de oportunidades de estágio na área de tecnologia.
